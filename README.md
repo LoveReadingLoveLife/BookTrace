@@ -1,5 +1,5 @@
-# Boringlife
-一个豆瓣读书搜索应用的源码，主要是为了熟悉一些 Android 第三方库的使用方法，详情见 [Android部分第三方库使用总结][]
+# BookTrace
+一个基于豆瓣API开发的读书app，部分重用开源代码boringlife，在此感谢小组其他成员（文振早，林强，黄清昊）
 
 # License
 <pre>
